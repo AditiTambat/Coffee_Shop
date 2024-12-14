@@ -1,5 +1,5 @@
-### Coffee_Shop
-Coffee House Website
+### Cafe Website
+Coffee House 
 This project is a fully responsive Coffee Shop Website built using HTML, CSS, and Bootstrap. The website showcases a visually appealing design with modern UI components and smooth functionality.
 <br>
 # Features: <br>
