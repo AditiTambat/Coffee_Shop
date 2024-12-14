@@ -1,6 +1,6 @@
-### Cafe Website
-Coffee House <br> 
-This project is a fully responsive " Coffee House " cafe Website built using HTML, CSS, and Bootstrap. The website showcases a visually appealing design with modern UI components and smooth functionality.
+### Responsive Coffee House Café Website
+
+This project is a fully responsiveCoffee House Café website using using HTML, CSS, and Bootstrap. The website showcases a visually appealing design with modern UI components and smooth functionality.
 <br>
 # Features: <br>
 Technologies: Bootstrap 5, CSS3, HTML5.<br>
